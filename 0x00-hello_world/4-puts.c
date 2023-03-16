@@ -1,12 +1,10 @@
-#include <studio.h>
-
+#include <stdio.h>
 /**
- * main - this is the main function
- *
- * Return: always 0
- */
+*main - entry poit
+*return : always 0 (success)
+*/
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle):
-	return (0):
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
