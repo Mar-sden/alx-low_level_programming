@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _puts_recursion - Prints a string
- * 
+ * _puts_recursion - Prints a string followed by a new line
+ * @s: string
  *
  * Return: On success 1.
  * Base case ->  when s is 0
